@@ -1,0 +1,15 @@
+C:\Users\Mir\MyLife\Courses\FormacaoDOTNET\Exercises\Exercises\bin\Debug\netcoreapp3.1\Exercises.exe
+C:\Users\Mir\MyLife\Courses\FormacaoDOTNET\Exercises\Exercises\bin\Debug\netcoreapp3.1\Exercises.deps.json
+C:\Users\Mir\MyLife\Courses\FormacaoDOTNET\Exercises\Exercises\bin\Debug\netcoreapp3.1\Exercises.runtimeconfig.json
+C:\Users\Mir\MyLife\Courses\FormacaoDOTNET\Exercises\Exercises\bin\Debug\netcoreapp3.1\Exercises.runtimeconfig.dev.json
+C:\Users\Mir\MyLife\Courses\FormacaoDOTNET\Exercises\Exercises\bin\Debug\netcoreapp3.1\Exercises.dll
+C:\Users\Mir\MyLife\Courses\FormacaoDOTNET\Exercises\Exercises\bin\Debug\netcoreapp3.1\Exercises.pdb
+C:\Users\Mir\MyLife\Courses\FormacaoDOTNET\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.csproj.AssemblyReference.cache
+C:\Users\Mir\MyLife\Courses\FormacaoDOTNET\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.Form1.resources
+C:\Users\Mir\MyLife\Courses\FormacaoDOTNET\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.csproj.GenerateResource.cache
+C:\Users\Mir\MyLife\Courses\FormacaoDOTNET\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.AssemblyInfoInputs.cache
+C:\Users\Mir\MyLife\Courses\FormacaoDOTNET\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.AssemblyInfo.cs
+C:\Users\Mir\MyLife\Courses\FormacaoDOTNET\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.csproj.CoreCompileInputs.cache
+C:\Users\Mir\MyLife\Courses\FormacaoDOTNET\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.dll
+C:\Users\Mir\MyLife\Courses\FormacaoDOTNET\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.pdb
+C:\Users\Mir\MyLife\Courses\FormacaoDOTNET\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.genruntimeconfig.cache
