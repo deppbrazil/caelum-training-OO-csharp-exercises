@@ -1,4 +1,57 @@
-# Exércicios Formação .NET - CAELUM
+# Excercises
 
-## 31/05/2021
-- [Notion](https://www.notion.so/deppbrazil/Exerc-cios-31-05-2021-cfdae2c5db604cb1a1219c476c5f3568)
+<!-- Banner -->
+
+<p align="center">
+    <a href="" target="_blank" >
+    <img alt="Banner" src="./.github/assets/background.jpg" width="100%" />
+  </a>
+</p>
+
+<!-- First badges -->
+
+<p align="center">
+  <!-- Codacy -->
+ <a href="https://www.codacy.com/gh/deppbrazil/caelum-training-OO-csharp-hello-world/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=deppbrazil/caelum-training-OO-csharp-hello-world&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/e257ef4a0ad14904badf35628a4b83e1"/></a>
+  <!-- Last commit -->
+  <a href="https://github.com/deppbrazil/caelum-training-OO-csharp-exercises/commits/main">
+    <img alt="Last commit" src="https://img.shields.io/github/last-commit/deppbrazil/caelum-training-OO-csharp-exercises.svg">
+  </a>
+  <!-- Repo size -->
+  <a href="https://github.com/deppbrazil/caelum-training-OO-csharp-exercises">
+    <img alt="Repo size" src="https://img.shields.io/github/repo-size/deppbrazil/caelum-training-OO-csharp-exercises.svg?color=brightgreen" />
+  </a>
+</p>
+
+<!-- Seconds badges -->
+
+<p align="center">
+  <!-- Contributors -->
+  <a href="https://github.com/deppbrazil/caelum-training-OO-csharp-exercises/graphs/contributors">
+    <img alt="Contributors project" src="https://img.shields.io/github/contributors/deppbrazil/caelum-training-OO-csharp-exercises.svg?color=blue" />
+  </a>
+  <!-- Language -->
+  <a href="https://github.com/deppbrazil/caelum-training-OO-csharp-exercises">
+    <img alt="GitHub language" src="https://img.shields.io/github/languages/top/deppbrazil/caelum-training-OO-csharp-exercises.svg" />
+  </a>
+  <!-- License -->
+  <a href="./LICENSE">
+    <img alt="Software License" src="https://img.shields.io/badge/license-MIT-blue.svg">
+  </a>
+</p>
+
+## Using
+
+-   .NET Core 3.1
+
+## Get Started
+
+[![](./.github/assets/run.jpg)](#)
+
+## Notebook
+
+-   [Notion](https://www.notion.so/Do-1-ao-39bcd0b07bf44139b85169c2432d9ceb)
+
+* * *
+
+Copyright © Mir Carvalho 2021
